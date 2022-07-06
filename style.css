@@ -64,6 +64,10 @@
     background-color: white;
 }
 
+.h2-conteiner{
+    font-size: 20px;
+}
+
 .h2-conteiner_a{
     float: left;
     height: 100%;
